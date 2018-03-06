@@ -13,4 +13,4 @@ Don't forget to run the BAT with admin permissions.
 
 ![alt tag](http://i.imgur.com/mMMVAII.png)
 
-The CSV attachment contains name, health,	mode,	primary server,	replica server, replica port and authentication type of all Virtual Machines with replica enable running on the server.
+The CSV attachment contains name, health, mode, primary server, replica server, replica port and authentication type of all Virtual Machines with replication enabled running on the server.
